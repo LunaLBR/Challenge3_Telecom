@@ -6,7 +6,7 @@ Predecir la **cancelación de clientes (Churn)** en un servicio de telecomunicac
 ---
 
 ## 📂 Datos y Variables
-- **Muestras**: *(indicar total según dataset)*  
+- **Muestras**: *(7043)*  
 - **Target**: `Churn` *(Yes/No)*  
 - **Principales features**:  
   - `Tenure` (antigüedad)  
