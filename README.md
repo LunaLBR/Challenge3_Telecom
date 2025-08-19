@@ -28,10 +28,8 @@ Predecir la **cancelación de clientes (Churn)** en un servicio de telecomunicac
   - 🔹 **Regresión Logística** (con escalado)  
   - 🔹 **KNN** (con escalado)  
   - 🔹 **Árbol de Decisión** (sin escalado)  
-  - 🔹 *(Opcional)* **Random Forest** (sin escalado, `class_weight='balanced'`)  
 
 📏 **Métricas evaluadas**: Accuracy, Precision, Recall, F1-score, Matriz de Confusión  
-*(Recomendado: ROC-AUC, PR-AUC y ajuste de umbral)*  
 
 ---
 
